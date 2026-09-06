@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**benwood256/benwood256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ben Wood, a Software Engineer based in Shropshire, United Kingdom.
 
-Here are some ideas to get you started:
+I work on Full Stack, utilising the MERN stack to make complete websites.
+In my spare time, I'm learning Python, Bash, Elisp & understand the Linux Operating System.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Languages & Software
+
+- MERN (MongoDB, Express, React & Node.js)
+- Python, Bash, Elisp
+- Linux Operating System
+
+---
+
+## About me
+
+- I enjoy an active lifestyle: playing cricket, hiking & bouldering
+- I have a strong fascination in how software works & I enjoy breaking things down to their simplest form in order to understand the process
+
+--- 
+
+## Future Interests/Projects
+
+- X86-64 Assembly
+- Bash scripts for automating my workflow/OS
+- Making games with Python on the Pygame engine
+- Learning Networking & Reverse Engineering
