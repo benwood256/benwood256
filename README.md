@@ -10,7 +10,7 @@ In my spare time, I'm learning Python, Bash, Elisp & understand the Linux Operat
 ## Languages & Software
 
 - MERN (MongoDB, Express, React & Node.js)
-- Python, Bash, Elisp
+- HTML, CSS, JavaScript, Java, Python, Bash & Elisp
 - Linux Operating System
 
 ---
