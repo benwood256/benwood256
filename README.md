@@ -13,7 +13,7 @@ I'm passionate about understanding how software works, from high-level applicati
 - Languages: HTML, CSS, JavaScript, Java, Python, Bash, Emacs Lisp
 - Frontend:  React, Bootstrap, HTML5, CSS3
 - Backend:   Node.js, Express.js
-- Databases: MongoDB, MariaDB, SQL
+- Databases: MongoDB, MariaDB, SQLite, SQL
 - Tools:     Git, GitHub, Linux, Vite
 
 ---
