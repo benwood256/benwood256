@@ -4,7 +4,7 @@ I'm Ben Wood, a Software Engineer & Full-Stack Developer based in Shropshire, Un
 
 I primarily work with the MERN stack (MongoDB, Express, React & Node.js) to develop full-stack web applications.
 
-I'm passionate about understanding how software works, from high-level application architecture to the underlying operating system. I enjoy breaking complex problems into smaller components and exploring how different technologies work together.
+I'm passionate about understanding how software works, from high-level application architecture to the underlying operating systems. I enjoy breaking complex problems into smaller components and exploring how different technologies work together.
 
 ---
 
